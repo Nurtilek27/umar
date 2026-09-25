@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="ky">
 <head>
 <meta charset="utf-8">
